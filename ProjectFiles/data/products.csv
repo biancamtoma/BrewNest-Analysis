@@ -1,0 +1,31 @@
+product_id,name,category,unit_price,cost_price,is_seasonal
+P001,Espresso,Coffee,8,3,0
+P002,Double Espresso,Coffee,12,5,0
+P003,Cappuccino,Coffee,14,5,0
+P004,Latte,Coffee,15,5,0
+P005,Flat White,Coffee,16,6,0
+P006,Americano,Coffee,10,3,0
+P007,Mocha,Coffee,18,7,0
+P008,Iced Latte,Coffee,17,6,1
+P009,Frappe,Coffee,19,7,1
+P010,Cold Brew,Coffee,16,5,1
+P011,Green Tea,Tea,10,3,0
+P012,Earl Grey,Tea,10,3,0
+P013,Chai Latte,Tea,14,5,0
+P014,Herbal Infusion,Tea,12,4,0
+P015,Iced Tea,Tea,13,4,1
+P016,Croissant,Pastry,10,4,0
+P017,Pain au Chocolat,Pastry,12,5,0
+P018,Blueberry Muffin,Pastry,11,4,0
+P019,Cinnamon Roll,Pastry,14,5,0
+P020,Cheesecake Slice,Pastry,18,7,0
+P021,Brownie,Pastry,13,5,0
+P022,Seasonal Pie,Pastry,16,6,1
+P023,Ham & Cheese Panini,Sandwich,22,9,0
+P024,Veggie Wrap,Sandwich,20,8,0
+P025,Turkey Club,Sandwich,25,10,0
+P026,Grilled Chicken,Sandwich,27,11,0
+P027,BrewNest Mug,Merchandise,45,15,0
+P028,Tumbler 500ml,Merchandise,65,22,0
+P029,Coffee Beans 250g,Merchandise,55,20,0
+P030,Gift Card 50 RON,Merchandise,50,50,0
