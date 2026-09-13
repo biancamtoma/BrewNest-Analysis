@@ -1,0 +1,16 @@
+store_id,city,region,opening_date,size_sqm,monthly_rent,employee_count,city_population
+S001,Bucuresti,Muntenia,2022-01-15,147,7922,8,1800000
+S002,Bucuresti,Muntenia,2022-02-22,65,2254,4,1800000
+S003,Bucuresti,Muntenia,2022-07-21,132,5281,8,1800000
+S004,Cluj-Napoca,Transilvania,2022-11-25,194,6148,11,320000
+S005,Cluj-Napoca,Transilvania,2022-07-20,82,2461,6,320000
+S006,Timisoara,Banat,2022-06-24,102,4665,7,310000
+S007,Iasi,Moldova,2022-12-18,103,4325,7,290000
+S008,Constanta,Dobrogea,2023-09-06,59,2577,3,280000
+S009,Brasov,Transilvania,2023-08-14,152,6904,9,250000
+S010,Craiova,Oltenia,2022-12-03,95,4788,3,240000
+S011,Sibiu,Transilvania,2024-11-07,176,10254,8,145000
+S012,Oradea,Transilvania,2024-10-18,53,1615,3,195000
+S013,Ploiesti,Muntenia,2024-06-27,155,7827,9,200000
+S014,Galati,Moldova,2023-12-08,219,7709,9,210000
+S015,Pitesti,Muntenia,2024-12-25,148,7793,7,148000
